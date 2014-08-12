@@ -1,4 +1,4 @@
-## Adding the Hero Image and Text
+## Adding the Hero Image, Text and Button
 
 <center>
 <video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-4.mp4" type="video/mp4"> 
@@ -39,3 +39,14 @@
 * Click states
 * Select hover
 * Change fill color to #bd3361
+
+<center>
+<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-7.mp4" type="video/mp4"> 
+</video>
+</center>
+
+* Change hero to 650px tall.
+* Change heroImage to 650px tall.
+* Add text shadow to h2
+* 180 degrees rgba(0,0,0,0.3)
+* distance 1px blur 2px
