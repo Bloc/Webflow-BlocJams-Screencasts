@@ -1,14 +1,14 @@
 ## Designing the Home Page and Top Navigation Bar
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-1.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-1.mp4" type="video/mp4">
 </video>
 </center>
 
 Building the page shown in the video above would require a lot of custom HTML and CSS code. As you'll see from these short videos, we can accomplish the same results much more efficiently with Webflow. Let's jump to it and change the background color on our site:
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-2.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-2.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -17,7 +17,7 @@ Follow the steps in the video and update the background color property on the bo
 That was too easy. Let's explore some new elements and properties as we build the navigation area:
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-3.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-3.mp4" type="video/mp4">
 </video>
 </center>
 

@@ -1,7 +1,7 @@
-## Creating the Promo and Footer
+## Promoting Bloc Jams
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-8.mp4" type="video/mp4"> 
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-8.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -21,7 +21,7 @@
 * add 25px bottom margin to paragraph
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-9.mp4" type="video/mp4"> 
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-9.mp4" type="video/mp4">
 </video>
 </center>
 
