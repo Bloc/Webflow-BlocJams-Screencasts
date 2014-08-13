@@ -1,41 +1,57 @@
-## Adding the Hero Image and Text
+## A Heroic Home Page and Call-to-Action
+
+Let's make our home page stand out with a "hero" image that represents our brand. Watch the video below to learn how we create a beautifully-styled and positioned hero section.
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-4.mp4" type="video/mp4"> 
+<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-4.mp4" type="video/mp4">
 </video>
 </center>
 
-* Add section called hero
-* Set to 100% width and 800px tall
-* Add a section within that one called heroImage
-* Set to 100% width and 800px tall
-* Set the background image,upload heroImage.jpg
-* In the overlay click the arrow in the bottom center to set to the bottom edge of the container.
-* Click the x next to Tile for no tiling (no-repeat).
-* Change the opacity for the heroImage to 70%.
+Follow the steps in the video and make sure you accomplished the following:
+
+* added a new `section` element named `hero`
+* set the `hero` width to `100%` and the height to `800px`
+* nested a `section` within `hero` named `heroImage`
+* set the `heroImage` width to `100%` and height to `800px`
+* created a background image and uploaded `heroImage.jpg`
+* preset the `heroImage.jpg` position to the bottom edge of the `heroImage` section
+* made sure the "X" button is pushed in the "Tile" section of the `heroImage.jpg` properties, so the image does not repeat
+* changed the opacity of `heroImage` to `70%`
+
+Our page already looks a lot better, but it's not yet clear what Bloc Jams _is_. In the next video we'll add some text and a call-to-action button.
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-5.mp4" type="video/mp4"> 
+<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-5.mp4" type="video/mp4">
 </video>
 </center>
 
-* heroImage set to position absolute, top 0, left and right 0 and z-index 0
-* Add container called homeText
-* position relative
-* z-index 1
-* Add in heading h1
-* add in heading h2
-* add in button
-* Change h1 to open sans, light, center aligned, 75px for size and line height and color of #ea3370
-* h2 to open sans normal, #FFF (white) center aligned 24px size and line height
-* Button uppercase, open sans ea3370 bg color, padding 10px top and bottom, 250px wide, centered using auto/auto button in position box, 30px top margin. Update radius to 20px and font size to 16px.
-* homeText add padding to the top of 200px.
+Review the video if you need to double check some of your settings. Here's a recap of what we did:
+
+* updated the `heroImage` position to `absolute` and updated the positions for: top, left, right and z-index to be 0
+* added a new container named `homeText`
+* set the `homeText` position to `relative`
+* set the `z-index` of `homeText` to 1, so it appears on top of `heroImage`
+* created `h1` and `h2` headings in `homeText`
+* created a `button` in `homeText`
+* modified the `h1` font properties to open sans, light, center-aligned, 75px font and line height, and gave it a color of #ea3370
+* modified the `h2` to open sans, normal, center-aligned, 24px font and line height, and gave it a color of white
+* modified the button properties:
+    * button font: uppercase, open sans, 16px, white
+    * button background: #ea3370
+    * button element: 10px padding on the top and bottom, 30px margin on the top, 250px width, center-aligned within container, border-radius of 20px
+* added padding of `200px` to the `homeText` container
+
+You're getting exposed to a lot of different properties for different elements. Now let's add some cool effects to our page:
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-6.mp4" type="video/mp4"> 
+<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-6.mp4" type="video/mp4">
 </video>
 </center>
 
-* Click states
-* Select hover
-* Change fill color to #bd3361
+That was simple! To make the button color change on a hover event we:
+
+* clicked on the button element and clicked on "states"
+* selected `hover`
+* changed the fill color to #bd3361
+
+Now that we're able to take the whole page in, we'd like to make some adjustments. Let's refactor a few things before moving on:
