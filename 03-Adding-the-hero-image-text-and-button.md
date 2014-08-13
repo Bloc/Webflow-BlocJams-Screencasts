@@ -55,3 +55,16 @@ That was simple! To make the button color change on a hover event we:
 * changed the fill color to #bd3361
 
 Now that we're able to take the whole page in, we'd like to make some adjustments. Let's refactor a few things before moving on:
+
+<center>
+<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-7.mp4" type="video/mp4">
+</video>
+</center>
+
+* changed the `hero` height to `650px`
+* changed the `heroImage` height to `650px`
+* added a text shadow to `h2`
+* changed the shadow angle to 180 degrees rgba(0,0,0,0.3)
+* changed the shadow blur property to `2px`
+
+And there we have it. Our home page is in good shape and we can move on to the promo page and footer.
