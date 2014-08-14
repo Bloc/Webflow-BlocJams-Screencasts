@@ -4,6 +4,8 @@
 
 Before you build the first page of Bloc Jams, you should understand how to navigate the workspace. While it's pretty simple to use, let's walk through each portion of the page.
 
+![](https://bloc-books.s3.amazonaws.com/webflow/pngs/compare.png)
+
 The project workspace is broken down into four segments:
 
 * **Top Navigation**: preview, publish and change the device view
