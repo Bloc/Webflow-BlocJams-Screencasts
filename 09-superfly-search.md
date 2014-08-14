@@ -113,6 +113,17 @@ That was easy, we only needed to do a couple of things:
 
 ***
 
+<center>
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-34.mp4" type="video/mp4">
+</video>
+</center>
+
+The last steps you have to take to complete Bloc Jams is to publish your site. Webflow makes it easy with the click of a button. 
+
+* select Publish Site from the left navigation in Webflow
+* click on the Publish Site 
+* click on the custom URL to view your published site
+
 Congratulations on designing a beautiful, responsive web site without writing a line of code! At Bloc, we actually love writing code, and writing your own HTML, CSS and JavaScript is a big part of our [UX and Design course](https://www.bloc.io/design). That being said, if you want to design rapid prototypes, learn how to use new CSS tricks, or merely want to visualize how CSS properties affect HTML elements, Webflow is a great tool to use. Beginners and professionals can find distinct use cases for Webflow, so if you're serious about web design you may want to consider it.
 
 We hope you enjoyed yourself and don't hesitate to reach out if you have any questions about this tutorial. You may be interested in trying our other courses, like [Building an iOS Tetris app in Swift](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift) and [Building a landing page with the Skeleton CSS framework](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css). Come back soon!

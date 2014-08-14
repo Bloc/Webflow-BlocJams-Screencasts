@@ -5,7 +5,9 @@
 </video>
 </center>
 
-Building the page shown in the video above would require a lot of custom HTML and CSS code. As you'll see from these short videos, we can accomplish the same results much more efficiently with Webflow. Let's jump to it and change the background color on our site:
+Building the page shown in the video above would require a lot of custom HTML and CSS code. As you'll see from these short videos, we can accomplish the same results much more efficiently with Webflow. Before you begin, download [this zip file](https://bloc-books.s3.amazonaws.com/webflow/assets/BlocJams_Assets.zip) of images we'll be using throughout this tutorial.
+
+Let's jump to it and change the background color on our site:
 
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-2.mp4" type="video/mp4">
