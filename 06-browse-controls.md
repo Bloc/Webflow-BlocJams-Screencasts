@@ -56,7 +56,7 @@ Let's review our steps, since we did some tricky stuff with overlays:
 * positioned `navBg` to be top left with a z-index of 0
 * changed the fill color to #313131
 
-Let's personalize our page with a custom avator image:
+Let's personalize our page with a custom avatar image:
 
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-17.mp4" type="video/mp4">
@@ -85,6 +85,8 @@ Now it's time to make the side bar sizzle with interactions. Check out how we do
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-18.mp4" type="video/mp4">
 </video>
 </center>
+
+> Within the new UI for Webflow, interactions are under the **Assets** panel. However, the same rules apply as you're creating them.
 
 We used some new settings for our interactions, so let's recap:
 
