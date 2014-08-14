@@ -1,4 +1,4 @@
-## Browsing for Music
+## Browsing Music
 
 Our home page is looking sweet, and we're bound to get users. Let's give them a page to browse our awesome music library. Take a look at the page we're about to build:
 
