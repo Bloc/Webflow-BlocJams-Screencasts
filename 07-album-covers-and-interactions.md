@@ -51,6 +51,8 @@ To review:
 
 Our albums are looking good, but they're oh-so static. Let's add some hover interactions:
 
+> Within the new UI for Webflow, interactions are under the **Assets** panel. However, the same rules apply as you're creating them.
+
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-22.mp4" type="video/mp4">
 </video>

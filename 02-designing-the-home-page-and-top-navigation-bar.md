@@ -1,5 +1,7 @@
 ## Designing the Home Page and Top Navigation Bar
 
+> Webflow has made slight changes to its interface since this tutorial was created. However, the controls are the same — just the placement of a few items has changed. We'll keep this tutorial updated with new changes, as this is quite common with software as a service products.
+
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-1.mp4" type="video/mp4">
 </video>
