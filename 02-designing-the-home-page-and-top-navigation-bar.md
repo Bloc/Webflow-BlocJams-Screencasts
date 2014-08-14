@@ -2,6 +2,8 @@
 
 > Webflow has made slight changes to its interface since this tutorial was created. However, the controls are the same —  the placement of a few items have changed though. We'll keep this tutorial updated with new changes, as this is quite common with software-as-a-service products.
 
+![](https://bloc-books.s3.amazonaws.com/webflow/pngs/compare.png)
+
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-1.mp4" type="video/mp4">
 </video>
