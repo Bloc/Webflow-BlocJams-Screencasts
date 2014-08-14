@@ -111,18 +111,22 @@ That was easy, we only needed to do a couple of things:
 * linked the logo on the browse page to the home page
 * linked the button on the home page to the browse page
 
-***
+Let's publish Bloc Jams so we can share it with our friends and family. Webflow makes this easy: 
 
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-34.mp4" type="video/mp4">
 </video>
 </center>
 
-The last steps you have to take to complete Bloc Jams is to publish your site. Webflow makes it easy with the click of a button. 
+To publish and get a public URL, we:
 
-* select Publish Site from the left navigation in Webflow
-* click on the Publish Site 
-* click on the custom URL to view your published site
+* selected **Publish Site** from the left navigation in Webflow
+* clicked on **Publish Site** 
+* clicked on the custom URL to view the published site
+
+Easy as pie!
+
+***
 
 Congratulations on designing a beautiful, responsive web site without writing a line of code! At Bloc, we actually love writing code, and writing your own HTML, CSS and JavaScript is a big part of our [UX and Design course](https://www.bloc.io/design). That being said, if you want to design rapid prototypes, learn how to use new CSS tricks, or merely want to visualize how CSS properties affect HTML elements, Webflow is a great tool to use. Beginners and professionals can find distinct use cases for Webflow, so if you're serious about web design you may want to consider it.
 
