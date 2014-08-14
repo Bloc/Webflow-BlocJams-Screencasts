@@ -1,6 +1,6 @@
 ## Designing an App with Webflow
 
-![](https://bloc-books.s3.amazonaws.com/webflow/animated-gifs/webflow_blocjams.gif)
+![](https://bloc-books.s3.amazonaws.com/webflow/animated-gifs/webflow-final.gif)
 
 In this tutorial we'll show you how to design an interactive website like the one shown above. The twist is that we'll be using [Webflow](https://webflow.com/), which is software for creating beautiful and responsive websites, without writing HTML and CSS code manually.
 
