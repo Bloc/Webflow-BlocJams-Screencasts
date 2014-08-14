@@ -3,7 +3,7 @@
 Let's make our home page stand out with a "hero" image that represents our brand. Watch the video below to learn how we create a beautifully-styled and positioned hero section.
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-4.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-4.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -21,7 +21,7 @@ Follow the steps in the video and make sure you accomplished the following:
 Our page already looks a lot better, but it's not yet clear what Bloc Jams _is_. In the next video we'll add some text and a call-to-action button.
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-5.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-5.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -44,7 +44,7 @@ Review the video if you need to double check some of your settings. Here's a rec
 You're getting exposed to a lot of different properties for different elements. Now let's add some cool effects to our page:
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-6.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-6.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -57,7 +57,7 @@ That was simple! To make the button color change on a hover event we:
 Now that we're able to take the whole page in, we'd like to make some adjustments. Let's refactor a few things before moving on:
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-7.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-7.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -67,4 +67,4 @@ Now that we're able to take the whole page in, we'd like to make some adjustment
 * changed the shadow angle to 180 degrees rgba(0,0,0,0.3)
 * changed the shadow blur property to `2px`
 
-And there we have it. Our home page is in good shape and we can move on to the promo page and footer.
+And there we have it. Our home page is in good shape but it still needs a few things. Let's add a promotional section to explain our product a but better. We'll also need a footer to round the home page out. We'll do both of those things in the next chapter.

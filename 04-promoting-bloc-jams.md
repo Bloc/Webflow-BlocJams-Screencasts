@@ -1,9 +1,9 @@
-## Creating the Promo and Footer
+## Promoting Bloc Jams
 
 We should add more information to our page to explain why Bloc Jams is so great. Let's create a new section named "Promo" and make it look great:
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-8.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-8.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -24,7 +24,7 @@ We now have an area dedicated to promoting our product. To recap, we:
 Our promotion area is looking good, but we need a footer to complete the page. Let's do that next:
 
 <center>
-<video width="853" height="505" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-9.mp4" type="video/mp4">
+<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-9.mp4" type="video/mp4">
 </video>
 </center>
 
