@@ -17,6 +17,8 @@ This is pretty standard stuff by now. Here are the steps from the video:
 * updated the z-index to 1
 * filled the background with the rgba(44,44,44,0.9)
 
+Our play bar should remain static throughout Bloc Jams. So that if you start a new song and then go search for the next on the list, the music never stops. This is why we've placed it at the bottom.
+
 Next we'll add controls to our play bar:
 
 <center>
@@ -38,6 +40,8 @@ Here's what we did:
 * added 10px of margin to the right side of `playControls`
 * added a new class to the last `playControls`, which is the volume icon
 * updated the right margin to 40px
+
+Most music apps share similar qualities, but all have to have controls. We've made sure to add in the main ones: previous, play, next and volume.
 
 Finally, let's design how the album information will be displayed on the play bar:
 
@@ -85,4 +89,6 @@ That was a bit of work. Let's review:
 * added another class named `last`
 * click and dragged `last` below the `timeBar`
 
-Our play bar is now complete and looking fly. Just one more chapter and Bloc Jams will be complete.
+We want to display the name of the song and artist prominently on the play bar so it's always visible even if you switch pages. The time bar itself will display the current progression of the song, and we've used the same pink to keep with the consistency in color.
+
+Our play bar is now complete and looking fly. Just a few more chapters and Bloc Jams will be complete.

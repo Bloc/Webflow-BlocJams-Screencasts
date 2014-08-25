@@ -18,7 +18,9 @@ Follow the steps in the video and make sure you accomplished the following:
 * made sure the "X" button is pushed in the "Tile" section of the `heroImage.jpg` properties, so the image does not repeat
 * changed the opacity of `heroImage` to `70%`
 
-Our page already looks a lot better, but it's not yet clear what Bloc Jams _is_. In the next video we'll add some text and a call-to-action button.
+A hero image is often used on today's websites as a way to convey a message about what the product is. The image you select should portray that meaning, as in this case, we have a musician. We've declared a height of 800px so that the image will size nicely on our site. We've removed tiling, because we don't want it to show up more than one, and the opacity will help your text show up more clearly, which we'll go over in the next few sections. While our page already looks a lot better, it's not completely clear what Bloc Jams _is_.
+
+In the next video we'll add some text and a call-to-action button.
 
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-5.mp4" type="video/mp4">
@@ -41,7 +43,9 @@ Review the video if you need to double check some of your settings. Here's a rec
     * button element: 10px padding on the top and bottom, 30px margin on the top, 250px width, center-aligned within container, border-radius of 20px
 * added padding of `200px` to the `homeText` container
 
-You're getting exposed to a lot of different properties for different elements. Now let's add some cool effects to our page:
+You're getting exposed to a lot of different properties for different elements. We've added some eye-catching text to our page that provides some additional context to what Bloc Jams is. Our main call-to-action should stand out, which is why we've chosen to replicate the color from the headline and the logo. The pink plays nicely with a black and white photo to grab the user's attention.
+
+Now let's add some cool effects to our page:
 
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-6.mp4" type="video/mp4">
@@ -54,7 +58,9 @@ That was simple! To make the button color change on a hover event we:
 * selected `hover`
 * changed the fill color to #bd3361
 
-Now that we're able to take the whole page in, we'd like to make some adjustments. Let's refactor a few things before moving on:
+As a designer or developer, you should **always** remember to accommodate hover, active and focus states for your websites. So we made sure to add in a slight variation to the background color to let the user know that something's happened.
+
+Now that we're able to take the whole page in, we'd like to make some adjustments. We've realized that 800px is just too tall for that hero image, so let's refactor a few things before moving on:
 
 <center>
 <video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-7.mp4" type="video/mp4">

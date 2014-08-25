@@ -56,6 +56,8 @@ Let's review our steps, since we did some tricky stuff with overlays:
 * positioned `navBg` to be top left with a z-index of 0
 * changed the fill color to #313131
 
+We've created some simple icons for our navigation bar, however, to make sure users understand the actions, we've included a label to go with each of them. While this adds more elements to the page, it provides some visual and text context. 
+
 Let's personalize our page with a custom avatar image:
 
 <center>
@@ -79,6 +81,8 @@ That wasn't too bad. Let's review what we did:
 * changed the font style to open sans, #fff, and 12px
 * center aligned the text
 
+We added a rounded photo avatar along with a name label to denote who's currently using the application. We opted for a radius of 50% so that the photo appears as a circle, going along with today's trend.
+
 Now it's time to make the side bar sizzle with interactions. Check out how we do it:
 
 <center>
@@ -91,7 +95,7 @@ Now it's time to make the side bar sizzle with interactions. Check out how we do
 We used some new settings for our interactions, so let's recap:
 
 * selected the "Browse" `navItem`
-* clicked the **Settings** panel and changed the link settings to link to a page and selected "Browse" from the drop down
+* clicked the **Assets** (Settings in video) panel and changed the link settings to link to a page and selected "Browse" from the drop down
 * created a new interaction named `leftNav Opacity`
 * set the initial opacity to 50%
 * added a trigger and selected hover from the pop-up
@@ -109,5 +113,7 @@ We used some new settings for our interactions, so let's recap:
 * changed the initial appearance to 0% opacity
 * selected the `navItem` layers in "Search" and "Playlists" and added the `leftNav Opacity` interaction
 * selected the `navBg` layers in "Search" and "Playlists" and added the `0% opacity on load` interaction
+
+The interaction piece of Webflow can get slightly confusing if you don't know exactly what you are doing. Luckily, Webflow has also created a [series of video tutorials](http://tutorials.webflow.com/interactions) and some [example](http://interactions.webflow.com/) to help make these easier.
 
 Our side bar is now complete. Let's move on and add some album covers to our page.

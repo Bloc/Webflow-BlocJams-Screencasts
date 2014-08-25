@@ -21,6 +21,8 @@ We now have an area dedicated to promoting our product. To recap, we:
 * changed the heading and paragraph text to be open sans, light, and center aligned
 * added 25px of margin to the bottom of the paragraph element
 
+We've added a subtle radial gradient to our promo section to create a simple lighting effect. In this section, we've used an `h3` tag, since we've already used the `h1` and `h2` for our hero image. When building a website, it's good SEO (Search Engine Optimization) practice to start with the `h1` and move down the page. By adding spacing between your header, text block and image, it allows for each element to breath and makes it easier on the users' eyes as they are scanning the page.
+
 Our promotion area is looking good, but we need a footer to complete the page. Let's do that next:
 
 <center>

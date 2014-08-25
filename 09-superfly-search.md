@@ -52,6 +52,8 @@ Here's a recap of our steps, which includes some minor refactorings:
 * positioned 20px from the top and 20px from the left
 * added an image and uploaded the `small_search.png` file
 
+If you notice, we're not using up the entire space to the right to showcase search. Why? Simple, search should be easy. Type in a search term, get quick results. It should also be smart. Of course, our search isn't hooked up to any dataset, but we can showcase how it should be done.
+
 Our search form is decent, but we want to mock some search results too. Let's add some artists links and images for sample search results:
 
 <center>
@@ -111,23 +113,4 @@ That was easy, we only needed to do a couple of things:
 * linked the logo on the browse page to the home page
 * linked the button on the home page to the browse page
 
-Let's publish Bloc Jams so we can share it with our friends and family. Webflow makes this easy: 
-
-<center>
-<video width="1024" height="576" controls> <source src="https://bloc-books.s3.amazonaws.com/webflow/screencasts/BlocJams-34.mp4" type="video/mp4">
-</video>
-</center>
-
-To publish and get a public URL, we:
-
-* selected **Publish Site** from the left navigation in Webflow
-* clicked on **Publish Site** 
-* clicked on the custom URL to view the published site
-
-Easy as pie!
-
-***
-
-Congratulations on designing a beautiful, responsive web site without writing a line of code! At Bloc, we actually love writing code, and writing your own HTML, CSS and JavaScript is a big part of our [UX and Design course](https://www.bloc.io/design). That being said, if you want to design rapid prototypes, learn how to use new CSS tricks, or merely want to visualize how CSS properties affect HTML elements, Webflow is a great tool to use. Beginners and professionals can find distinct use cases for Webflow, so if you're serious about web design you may want to consider it.
-
-We hope you enjoyed yourself and don't hesitate to reach out if you have any questions about this tutorial. You may be interested in trying our other courses, like [Building an iOS Tetris app in Swift](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift) and [Building a landing page with the Skeleton CSS framework](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css). Come back soon!
+In the next chapter we're going to design a quick artist page that will link to our album covers.

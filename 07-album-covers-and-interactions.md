@@ -49,6 +49,8 @@ To review:
 * positioned absolute
 * left and bottom with 20px of space for `albumPlay`
 
+We've added an overlay to our album cover with an opacity of 50% so that the album art still appears, yet allows our text to show up without issue.
+
 Our albums are looking good, but they're oh-so static. Let's add some hover interactions:
 
 > Within the new UI for Webflow, interactions are under the **Assets** panel. However, the same rules apply as you're creating them.
@@ -69,6 +71,8 @@ If you've ever coded interactions by hand, hopefully you're starting to apprecia
 * created a hover-out to move down 300px at 350ms ease-in and opacity of 0%
 * created a second step for hover-out to move to origin
 * added the `0% opacity on load` interaction to the `albumDetails`
+
+Now we can see how our overlays appear only when a user interacts with them. A simple hover animation can make a world of difference in the interactivity of a site.
 
 Let's create another hover effect for our play button:
 

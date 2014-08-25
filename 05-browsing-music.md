@@ -26,6 +26,8 @@ In addition to creating a new page, we added a side bar that will store our brow
 * created a drop shadow of rgba(255, 255, 255, 0.08)
 * set the shadow to 90 degrees, with a distance of 1px, a blur of 0, and size of 0
 
+We're using the left-side navigation pattern so we can focus most of the real estate to the primary actions on the page: browsing and listening to music. We've adjusted the background color to denote that the left-side navigation is separate from the main content area of the page as well.
+
 Let's take a break from our side bar and focus on the main section of the page:
 
 <center>
@@ -69,6 +71,8 @@ We just created a few tabs, but touched a few styles and multiple properties. Le
 * created a hover state for `browseLink`
 * added a bottom border on `browseLink` of 3px, solid, #ea3370, and a bottom margin of -3px
 
+The tabs will enable a user to quickly change the content of the main section of the page without having to add another navigation tab or link to the left side. Essentially, it's hiding content to be seen as the user select it. We wanted to highlight the active tab as well as provide the attributes for the hover state, which is why we've added the pink underline to those elements.
+
 To complete the main section of our browse page we'll need albums. But first, let's create a template to add albums to:
 
 <center>
@@ -89,5 +93,7 @@ Now we have a good place to add albums, which we'll do soon. Before moving on, b
 * changed the overflow of `album` to hidden
 * changed the position of `album` to relative
 * added a drop shadow to `album` with the properties of: color #333, 180 degrees, distance of 1px, blur of 5px, and size of 0
+
+We plan on having five albums per row. If you divide 100% by five, you get 20%. In order to provide just a bit of space between each one, we've opted to set our width of each album to 18% with a right margin of 2%. When you begin to make this page responsive, these values will change based on the size of the device you're targeting.
 
 In the next chapter we'll complete the side bar navigation on the left of the page.

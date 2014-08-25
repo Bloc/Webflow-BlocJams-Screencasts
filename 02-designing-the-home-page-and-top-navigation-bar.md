@@ -37,4 +37,6 @@ In the video we accomplished the following:
 * added an image within the `logo` link block and uploaded `logo.png`
 * added `10px` of padding to the top and bottom of the `logo` link block
 
+We've created a simple navigation bar to specify the site via the logo. This navigation bar could be expanded upon later down the road as you might want to add more links to take users to various parts of the site.
+
 In the next chapter we'll work on the main section of our home page, and make it stand out with a sweet-looking image and call-to-action.
